@@ -18,7 +18,7 @@ function GitHubGlyph({ className = "size-4" }: { className?: string }) {
 function GitHubLink() {
   return (
     <a
-      href="https://github.com/TurtIeSocks/ridiculous"
+      href="https://github.com/chelonejs/ridiculous"
       aria-label="GitHub"
       className="inline-flex size-10 items-center justify-center rounded-full border border-transparent text-muted-foreground transition hover:border-white/15 hover:bg-white/5 hover:text-foreground"
     >
