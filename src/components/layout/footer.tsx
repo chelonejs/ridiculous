@@ -4,10 +4,10 @@ export function Footer() {
       <div className="container mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-3 px-6 py-8 text-muted-foreground text-xs">
         <span>MIT License · 2026</span>
         <a
-          href="https://github.com/TurtIeSocks/ridiculous"
+          href="https://github.com/chelonejs/ridiculous"
           className="underline-offset-4 hover:text-foreground hover:underline"
         >
-          github.com/TurtIeSocks/ridiculous
+          github.com/chelonejs/ridiculous
         </a>
       </div>
     </footer>
